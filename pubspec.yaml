@@ -17,7 +17,7 @@ dependencies:
   flutter_form_builder:
     git:
       url: https://github.com/akhilSignzy/flutter_form_builder.git
-      ref: 9.3.0
+      ref: axis903
   flutter_colorpicker: ^1.0.3
   dropdown_search: ^5.0.6
   signature: ^5.4.0
